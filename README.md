@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rloria7
 - 👀 I’m interested in Networking and Web Development
-- 🌱 I’m currently learning Database,IA,Python
+- 🌱 I’m currently learning Database,IA,Python, Linux, and so on
 - 💞️ I’m looking to collaborate on Web 
 - 📫 How to reach me rloria7@gmail.com
 
